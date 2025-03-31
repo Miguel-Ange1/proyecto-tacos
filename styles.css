@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+}
+.contenedor_pricipal{
+    background-color: #ffffff;
+    width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 50px;
+}
+h2{
+    color: #f7ac4a;
+}
+.s_imagen img{
+    width: 100%;
+    border-radius: 20px;   
+}
+.s_cont_secudario{
+    background-color: #fdebfd;
+    padding: 20px;
+    border-radius: 20px;
+}
+/*
+
+Selectores, propiedades, valores.
+
+Selectores:
+    id, clase, tipo-etiqueda
+Colores:
+    RGB, HEXADECIMAL
+Unidades de medida:
+    px, em, %, vh, vw
+Fondos:
+
+*** Modelo cajas - BoxModel ***
+Display: posicionamiento de los elementos
+*** FLEX BOX - DISPLAY: FLEX***
+
+
+*/
